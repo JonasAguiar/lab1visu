@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/post/volume-apos-fim-do-racionamento/</loc>
+    <lastmod>2017-11-14T15:08:50-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/post/volume-morto/</loc>
+    <lastmod>2017-11-14T14:56:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/post/primeiro-post/</loc>
+    <lastmod>2017-11-14T14:44:11-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/</loc>
+    <lastmod>2017-11-14T15:08:50-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/post/</loc>
+    <lastmod>2017-11-14T15:08:50-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonasaguiar.github.io/lab1visu/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Boqueirão</title>
+    <link>https://jonasaguiar.github.io/lab1visu/post/</link>
+    <description>Recent content in Posts on Boqueirão</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2017 15:08:50 -0300</lastBuildDate>
+    
+	<atom:link href="https://jonasaguiar.github.io/lab1visu/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fim Do Racionamento</title>
+      <link>https://jonasaguiar.github.io/lab1visu/post/volume-apos-fim-do-racionamento/</link>
+      <pubDate>Tue, 14 Nov 2017 15:08:50 -0300</pubDate>
+      
+      <guid>https://jonasaguiar.github.io/lab1visu/post/volume-apos-fim-do-racionamento/</guid>
+      <description>const spec = { &#34;$schema&#34;: &#34;https://vega.github.io/schema/vega-lite/v2.json&#34;, &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;width&#34;: 1000, &#34;height&#34;: 500, &#34;layer&#34;: [{ &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;mark&#34;: { &#34;type&#34;: &#34;area&#34;, &#34;interpolate&#34;: &#34;monotone&#34;, &#34;color&#34;: &#34;#81DAF5&#34; }, &#34;selection&#34;: { &#34;brush&#34;: {&#34;type&#34;: &#34;interval&#34;, &#34;encodings&#34;: [&#34;x&#34;]} }, &#34;encoding&#34;: { &#34;</description>
+    </item>
+    
+    <item>
+      <title>Operando no Volume Morto</title>
+      <link>https://jonasaguiar.github.io/lab1visu/post/volume-morto/</link>
+      <pubDate>Tue, 14 Nov 2017 14:56:20 -0300</pubDate>
+      
+      <guid>https://jonasaguiar.github.io/lab1visu/post/volume-morto/</guid>
+      <description>const spec = { &#34;$schema&#34;: &#34;https://vega.github.io/schema/vega-lite/v2.json&#34;, &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;width&#34;: 1000, &#34;height&#34;: 500, &#34;layer&#34;: [{ &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;mark&#34;: { &#34;type&#34;: &#34;area&#34;, &#34;interpolate&#34;: &#34;monotone&#34;, &#34;color&#34;: &#34;#81DAF5&#34; }, &#34;selection&#34;: { &#34;brush&#34;: {&#34;type&#34;: &#34;interval&#34;, &#34;encodings&#34;: [&#34;x&#34;]} }, &#34;encoding&#34;: { &#34;</description>
+    </item>
+    
+    <item>
+      <title>No racionamento</title>
+      <link>https://jonasaguiar.github.io/lab1visu/post/primeiro-post/</link>
+      <pubDate>Tue, 14 Nov 2017 14:44:11 -0300</pubDate>
+      
+      <guid>https://jonasaguiar.github.io/lab1visu/post/primeiro-post/</guid>
+      <description>const spec = { &#34;$schema&#34;: &#34;https://vega.github.io/schema/vega-lite/v2.json&#34;, &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;width&#34;: 1000, &#34;height&#34;: 500, &#34;layer&#34;: [{ &#34;data&#34;: { &#34;url&#34;: &#34;https://api.insa.gov.br/reservatorios/12172/monitoramento&#34;, &#34;format&#34;: { &#34;type&#34;: &#34;json&#34;, &#34;property&#34;: &#34;volumes&#34;, &#34;parse&#34;: { &#34;DataInformacao&#34;: &#34;utc:&#39;%d/%m/%Y&#39;&#34; } } }, &#34;mark&#34;: { &#34;type&#34;: &#34;area&#34;, &#34;interpolate&#34;: &#34;monotone&#34;, &#34;color&#34;: &#34;#81DAF5&#34; }, &#34;selection&#34;: { &#34;brush&#34;: {&#34;type&#34;: &#34;interval&#34;, &#34;encodings&#34;: [&#34;x&#34;]} }, &#34;encoding&#34;: { &#34;</description>
+    </item>
+    
+  </channel>
+</rss>
